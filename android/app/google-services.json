@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "471112236258",
+    "project_id": "flutter-chat-dbabe",
+    "storage_bucket": "flutter-chat-dbabe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471112236258:android:0128ab77222f62e97732bb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471112236258-vm81r13m89j9khpva4jhk9i26079bvlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUmptFWX1D-eM5lLqEaePUnGV6SUpZD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471112236258-vm81r13m89j9khpva4jhk9i26079bvlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471112236258-71gpng6bvbmmqdjmleob924apl7hr562.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
